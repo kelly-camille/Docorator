@@ -1,0 +1,26 @@
+.renovation {
+    height: 25%;
+    width: 25%;
+    object-fit: contain;
+}
+
+.process-1 {
+  margin: auto;
+  height: 25%;
+  width: 25%;
+  object-fit: contain;
+}add
+.column-1 {
+  width: 30%; 
+  float: left;
+}
+
+.column-2 {
+  width: 30%;
+  text-align: center;
+}
+
+.column-3 {
+  width: 30%;
+  float: right;
+}
